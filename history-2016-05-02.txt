@@ -1,0 +1,500 @@
+   52  cc raiz.c -o raiz
+   53  cc raiz.c -o raiz -lm
+   54  man sqrt
+   55  ./raiz
+   56  ./raiz
+   57  ./raiz
+   58  cc raiz.c -o raiz -lm
+   59  exit
+   60  apropos git
+   61  man apropos
+   62  man which
+   63  clear
+   64  which gcc
+   65  which make
+   66  which ls
+   67  which cd
+   68  man bash
+   69  man whereis
+   70  which gcc
+   71  whereis gcc
+   72  cd DriveH/2016-1/lp
+   73  ls
+   74  ls
+   75  clear
+   76  ls
+   77  cat hello.c
+   78  cp hello.c hello2.c
+   79  vi hello2.c
+   80  clear
+   81  man diff
+   82  diff hello.c hello2.c
+   83  man groff
+   84  grep hello.c return
+   85  grep return hello.c
+   86  grep printf hello.c
+   87  man astyle
+   88  astyle
+   89  man gcc
+   90  man make
+   91  man printf
+   92  clear
+   93  ls
+   94  vi somar.c
+   95  vimtutor
+   96  vimtutor
+   97  vimtutor
+   98  clear
+   99  cc -g -o hello hello.c
+  100  ls -l
+  101  cc -o hello hello.c
+  102  ls -l
+  103  cc -g -o hello hello.c
+  104  gdb hello
+  105  indent
+  106  uncrustify
+  107  astyle
+  108  cd DriveH
+  109  cd 2016-1/
+  110  cd lp/
+  111  ls
+  112  vimtutor
+  113  gedit parimpar.c &
+  114  make parimpar
+  115  ./parimpar
+  116  make parimpar
+  117  ./parimpar
+  118  clear
+  119  ./parimpar
+  120  make parimpar
+  121  ./parimpar
+  122  ./parimpar
+  123  ./parimpar
+  124  ./parimpar
+  125  clear
+  126  ./parimpar
+  127  ./parimpar
+  128  ./parimpar
+  129  man scanf
+  130  make parimpar
+  131  ./parimpar
+  132  ./parimpar
+  133  clear
+  134  ./parimpar
+  135  make parimpar
+  136  make parimpar
+  137  ./parimpar
+  138  ./parimpar
+  139  ./parimpar
+  140  ./parimpar
+  141  clear
+  142  ./parimpar
+  143  ./parimpar
+  144  ./parimpar
+  145  make parimpar
+  146  clear
+  147  make parimpar
+  148  ./parimpar
+  149  ./parimpar
+  150  ./parimpar
+  151  ./parimpar
+  152  ./parimpar
+  153  claer
+  154  clear
+  155  db
+  156  gdb
+  157  gdb
+  158  clear
+  159  make parimpar
+  160  cc -g parimpar.c -o parimpar
+  161  claer
+  162  clear
+  163  ls -l
+  164  clear
+  165  make parimpar
+  166  cc -g parimpar.c -o parimpar
+  167  cc parimpar.c -o parimpar
+  168  ls -l parimpar
+  169  cc -g parimpar.c -o parimpar
+  170  ls -l parimpar
+  171  clear
+  172  gdb parimpar
+  173  gdb parimpar
+  174  clear
+  175  cd DriveH
+  176  ls
+  177  cd 2016-1/
+  178  cd lp
+  179  ls
+  180  clear
+  181  pwd
+  182  set
+  183  set $1=$ 
+  184  set $0=$ 
+  185  clear
+  186  gedit semif.c &
+  187  make semif
+  188  ./semif
+  189  make semif
+  190  ./semif
+  191  make semif
+  192  ./semif
+  193  ./semif
+  194  ./semif
+  195  ./semif
+  196  ./semif
+  197  ./semif
+  198  ./semif
+  199  ./semif
+  200  ./semif
+  201  make semswitch
+  202  ./semswitch
+  203  ./semswitch
+  204  clear
+  205  ./semswitch
+  206  make semswitch
+  207  clear
+  208  man strcpy
+  209  make semswitch
+  210  ./semswitch
+  211  ./semswitch
+  212  ./semswitch
+  213  make semswitch
+  214  make semswitch
+  215  ./semswitch
+  216  ./semswitch
+  217  make semswitch
+  218  clear
+  219  ./semswitch
+  220  ./semswitch
+  221  clear
+  222  man 3 printf
+  223  man 3 scanf
+  224  make semswitch
+  225  make semswitch
+  226  make semswitch
+  227  clear
+  228  ./semswitch
+  229  ./semswitch
+  230  make semswitch
+  231  ./semswitch
+  232  ./semswitch
+  233  printf ./semswitc
+  234  clear
+  235  whereis stdio.h
+  236  gedit /usr/include/stdio.h &
+  237  pwd
+  238  cd DriveH
+  239  ls
+  240  cd 2016-1
+  241  pwd
+  242  clear
+  243  ls
+  244  cd lp
+  245  ls
+  246   gedit seq.c &
+  247  make seq
+  248  ./seq
+  249  make seq
+  250  ./seq
+  251  ps
+  252  top
+  253  ps
+  254  clear
+  255  ls
+  256  ps
+  257  kill 3177
+  258  ps
+  259  clear
+  260  kill -9 3177
+  261  ps
+  262  ps
+  263  make seq
+  264  ./seq
+  265  make seq
+  266  clear
+  267  ./seq
+  268  make seq
+  269  ./seq
+  270  make seq
+  271  ./seq
+  272  clear
+  273  cc -g seq.c -o seq
+  274  make seq
+  275  touch seq.c
+  276  make seq
+  277  gdb seq
+  278  clear
+  279  cc -g seq.c -o seq
+  280  gdb seq
+  281  clear
+  282  ./seq
+  283  make seq
+  284  make quad
+  285  ./quad
+  286  make quad
+  287  make quad
+  288  ./quad
+  289  make quad
+  290  clear
+  291  ./quad
+  292  make quad
+  293  ./quad
+  294  make quad
+  295  ./quad
+  296  ./quad
+  297  ./quad
+  298  make quad
+  299  ./quad
+  300  make quad
+  301  ./quad
+  302  make quad
+  303  ./quad
+  304  make quad
+  305  clear
+  306  ./quad
+  307  make quad
+  308  ./quad
+  309  ./quad
+  310  ./quad
+  311  ./quad
+  312  ./quad
+  313  ./quad
+  314  make quad
+  315  clear
+  316  ./quad
+  317  make quad
+  318  ./quad
+  319  make quad
+  320  ./quad
+  321  ./quad
+  322  ./quad
+  323  exit
+  324  exit
+  325  cd DriveH/2016-1/lp/
+  326  ls
+  327  gedit para.c &
+  328  make para
+  329  ./para
+  330  make para
+  331  clear
+  332  ./para
+  333  make para
+  334  ./para
+  335  make para
+  336  clear
+  337  ./para
+  338  make para
+  339  clear
+  340  ./para
+  341  make para
+  342  clear
+  343  ./para
+  344  make para
+  345  clear
+  346  ./para
+  347  make para
+  348  make para
+  349  clear
+  350  make quadfor
+  351  ./quadfor
+  352  claer
+  353  clear
+  354  astyle
+  355  astyle quadfor.c
+  356  ls
+  357  make quadfor
+  358  ./quadfor
+  359  ./quadfor
+  360  astyle quadfor.c
+  361  make quadfor
+  362  clear
+  363  ./quadfor
+  364  ./quadfor
+  365  ./quadfor
+  366  ./quadfor
+  367  make quadfor
+  368  ./quadfor
+  369  ./quadfor
+  370  make quadfor
+  371  ./quadfor
+  372  ./quadfor
+  373  make quadfor
+  374  make quadfor
+  375  ./quadfor
+  376  make quadfor
+  377  ./quadfor
+  378  ./quadfor
+  379  ./quadfor
+  380  make quadfor
+  381  ./quadfor
+  382  make quadfor
+  383  ./quadfor
+  384  ./quadfor
+  385  ./quadfor
+  386  ./quadfor
+  387  make quadfor
+  388  astyle quadfor.c
+  389  ./quadfor
+  390  ./quadfor
+  391  ./quadfor
+  392  ./quadfor
+  393  ./quadfor
+  394  astyle quadfor.c
+  395  astyle quadfor.c
+  396  astyle quadfor.c
+  397  clear[; clear
+  398  clear
+  399  ls
+  400  astyle quadfor.c
+  401  ls -la
+  402  ls -la quadfor.c
+  403  astyle quadfor.c
+  404  ls -la quadfor.c
+  405  astyle quadfor.c
+  406  astyle quadfor.c
+  407  astyle quadfor.c
+  408  astyle quadfor.c
+  409  make quadfor
+  410  ./quadfor
+  411  ./quadfor
+  412  astyle quadfor.c
+  413  make quadfor
+  414  ./quadfor
+  415  ./quadfor
+  416  ./quadfor
+  417  ./quadfor
+  418  astyle quadfor.c
+  419  cd DriveH/
+  420  cd 2016-1/
+  421  cd lp
+  422  ls
+  423  clear
+  424  gedit soma.c &
+  425  make soma
+  426  ./soma
+  427  ./soma
+  428  ./soma
+  429  ./soma
+  430  make soma
+  431  clear
+  432  ./soma
+  433  make soma
+  434  make somaf
+  435  man printf
+  436  man 3 printf
+  437  whereis stdio.h
+  438  cat /usr/include/stdio.h
+  439  cat /usr/include/stdio.h | more
+  440  grep stdio.h printf
+  441  grep printf /usr/include/stdio.h 
+  442  clear
+  443  ls
+  444  make somaf
+  445  make somaf
+  446  make somaf
+  447  make somaf
+  448  clear
+  449  make somaf
+  450  cc somaf.c s.c -o somaf
+  451  cc somaf.c -o somaf
+  452  clear
+  453  ls
+  454  mkdir rotinas
+  455  cd rotinas
+  456  ls
+  457  clear
+  458  ls
+  459  mv ../s.c .
+  460  mv ../s.h .
+  461  mv ../somaf.c .
+  462  clear
+  463  ls
+  464  cc somaf.c s.c -o somaf
+  465  ls
+  466  cc s.c -c -o s
+  467  ls
+  468  cc s.c -c
+  469  ls
+  470  rm s
+  471  clear
+  472  ls -la
+  473  clear
+  474  history 
+  475  clear
+  476  \cc s.c -c
+  477  \ cc s.c -c
+  478  clear
+  479  cc somaf.c -o somaf
+  480  cc somaf.c s.o -o somaf
+  481  hexdump s.c -c
+  482  hexdump s.c -C
+  483  clear
+  484  hexdump s.c 
+  485  hexdump s.o
+  486  hexdump -C s.o
+  487  clear
+  488  hexdump -C s.c
+  489  hexdump -C s.o
+  490  clear
+  491  ls
+  492  cd ..
+  493  ls
+  494  gedit soma.c
+  495  bg
+  496  clear
+  497  ls
+  498  make somap
+  499  ./somap
+  500  ./somap
+  501  make somap
+  502  clear
+  503  ./somap
+  504  ./somap
+  505  ./somap
+  506  ls
+  507  cc somap.c
+  508  cc -S somap.c
+  509  ls
+  510  cd rotinas/
+  511  lsa
+  512  ls
+  513  clear
+  514  cc -S s.c
+  515  ls
+  516  more s.s
+  517   clear
+  518  man git
+  519  clear
+  520  ls
+  521  ls
+  522  ls -la
+  523  clear
+  524  cd ..
+  525  cd ..
+  526  ls
+  527  pwd
+  528  mkdir github
+  529  cd github
+  530  ls
+  531  git clone https://github.com/masmangan/literate-octo-computing-machine.git
+  532  ls
+  533  clear
+  534  git status
+  535  cd literate-octo-computing-machine/
+  536  pwd
+  537  git status
+  538  ls
+  539  ls
+  540  git status
+  541  git add --all
+  542  clear
+  543  git status
+  544  git commit -m "Exemplo de funcao"
+  545  git status
+  546  clear
+  547  git push
+  548  clear
+  549  history
+  550  history | more
+  551  history > history-2016-05-02.txt
