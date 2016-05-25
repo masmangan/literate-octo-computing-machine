@@ -1,3 +1,16 @@
+/*
+Um banco está informatizando seus controles 
+de clientes e contas. No primeiro momento 
+o banco deseja guardar as informações de 
+até 2000 clientes. Cada cliente tem os 
+seguintes dados: Nome, idade, endereço, nº 
+da conta e CGC. As contas válidas tem 
+número diferente de zero. Cada conta 
+possui um só cliente. As informações das 
+contas são as seguintes: cliente, tempo em 
+que é cliente e saldo atual
+*/
+
 
 #include <stdio.h>
 #include <string.h>
