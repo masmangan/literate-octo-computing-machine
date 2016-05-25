@@ -64,7 +64,26 @@ int main()
 	contas[2].anoAbertura = 2016;
 	contas[2].saldo = 300.00;
 
-	// saque
+/*
+Suponha que o banco deseja oferecer aos clientes as 
+seguintes opções de tarefas:
+001 
+–
+saque
+002 
+–
+depósito
+003 
+–
+transferência para outra conta.
+Implemente um programa que pergunte ao usuário 
+seu nº de conta e a operação que deseja efetuar. A 
+seguir, deverá solicitar o valor do 
+depósito/saque/transf.. Ao final, deverá imprimir 
+um relatório constando o nome do cliente, nº conta 
+e saldo total.
+*/
+
 	int c;
 	int op;
 	float val;
@@ -80,6 +99,7 @@ int main()
 
 	printf("C=%d OP=%d VAL=%.2f\n", c, op, val);
 
+	// saque
 	if (op == 1) { // 001
 		contas[c].saldo -= val;
 
